@@ -12,7 +12,7 @@ This code implements a multiscale model of influenza A virus (IAV, also referred
 
 - IQM Toolbox for MATLAB by Schmidt and Jirstrand (Bioinformatics, 2006), available at https://iqmtools.intiquan.com/main.html
 
-- C/C++ compiler: Creates MEX-files for a faster simulation with the SB Toolbox (e.g. MinGW 6.3 C/C++ for Windows or GCC for Linux)
+- C/C++ compiler: Creates MEX-files for a faster simulation with the IQM Toolbox (e.g. MinGW 6.3 C/C++ for Windows or GCC for Linux)
 
 ## Optional programs (for faster simulation)
 - CVODE solver from SUNDIALS: Simulates MEX-files. Cohen and Hindmarsh (Computers in Physics, 1996), available at https://computing.llnl.gov/projects/sundials/sundials-software
