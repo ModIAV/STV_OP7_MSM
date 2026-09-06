@@ -1,6 +1,6 @@
 # STV_OP7_MSM
 
-This code implements a multiscale model of influenza A virus (IAV, also referred to as standard virus(STV)) and OP7 coinfection developed at the MPI Magdeburg. This model is an extension/combination of a multiscale model of IAV and defective interfering particle (DIP) co-infection [1], and an intracellular model of STV and OP7 coinfection [2]. The current model version will be documented in [3]. 
+This code implements a multiscale model of influenza A virus (IAV, also referred to as standard virus (STV)) and OP7 coinfection developed at the MPI Magdeburg. This model is an extension/combination of a multiscale model of IAV and defective interfering particle (DIP) co-infection [1], and an intracellular model of STV and OP7 coinfection [2]. The current model version will be documented in [3]. 
 
 ## References
 1. Rüdiger D, Pelz L, Hein MD, Kupke SY, Reichl U. Multiscale model of defective interfering particle replication for influenza A virus infection in animal cell culture. PLoS Comput Biol. 2021 Sep 7;17(9):e1009357. doi: 10.1371/journal.pcbi.1009357.
